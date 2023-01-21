@@ -1,0 +1,21 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+.logo{
+    width: 400px;
+    background-color: bisque ;
+}
+.fundo-logo{
+    background-color: bisque ;
+    width: 100%;
+}
+ul{
+    list-style: none;
+    justify-content: space-around;
+    display: flex;
+}
+.marq{
+    background-color: blanchedalmond;
+    padding: 25px;
+}
