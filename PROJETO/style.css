@@ -1,8 +1,8 @@
-/* *{
+  *{
     padding: 0;
     margin: 0;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}  */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}  
 .logo{
     width: 400px;
     background-color: bisque ;
@@ -13,11 +13,25 @@
 }
 ul{
     list-style: none;
+    text-decoration: none;
     justify-content: space-around;
     display: flex;
-    
+    align-items: right;
+    margin-left: 700px;
+    margin-top: -50px;
+
 }
 .marq{
     background-color: blanchedalmond;
     padding: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+ul,a:hover{
+    cursor: pointer;
+    color: grey;
+    transition: 200ms;
 }
