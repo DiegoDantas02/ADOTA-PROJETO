@@ -1,7 +1,8 @@
 /* *{
     padding: 0;
     margin: 0;
-} */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}  */
 .logo{
     width: 400px;
     background-color: bisque ;
@@ -14,6 +15,7 @@ ul{
     list-style: none;
     justify-content: space-around;
     display: flex;
+    
 }
 .marq{
     background-color: blanchedalmond;
