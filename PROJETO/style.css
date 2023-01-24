@@ -32,6 +32,13 @@ a{
 }
 ul,a:hover{
     cursor: pointer;
-    color: grey;
+    color:burlywood;
     transition: 200ms;
+}
+.container{
+    position: relative;
+    padding: 100px;
+    margin-top: -100px;
+    display: flex;
+    justify-content: space-between;   
 }
