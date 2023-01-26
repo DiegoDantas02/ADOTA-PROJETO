@@ -14,8 +14,17 @@ ul{
     list-style: none;
     justify-content: space-around;
     display: flex;
+    margin-left: 800px;
+    margin-top: -50px;
 }
 .marq{
     background-color: blanchedalmond;
     padding: 25px;
 }
+a{
+    text-decoration: none;
+    display:flex;
+    color: black;
+
+}
+
